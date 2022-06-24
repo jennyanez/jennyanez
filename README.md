@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is Jennifer
 #### I am Computer Science student.
 
-Skills: C / Java / SQL / Python / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning about machine learning 
 
 
