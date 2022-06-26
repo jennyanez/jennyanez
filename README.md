@@ -7,7 +7,7 @@
 - 📚 I study at CUJAE university.  
   
 
-- 🌱 I’m currently learning Web Development and Machine Learning with the CS50 program.  
+- 🌱 I’m currently learning Web Development and Machine Learning with the @cs50 program.  
   
 
 - ⚡ Creating bugs since 2019.  
