@@ -39,28 +39,6 @@
 <br/>  
 
 
-## Github Stats  
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jennyanez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Top Languages
-
-<br/>  
-
-<div align="center"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyanez" align="center" /> </div>
-
-<br/>  
-
-## Github Activity Graph
-
-<br/>  
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jennyanez" align="center" /></div>
-
-<br/>
 
 ## GitHub streak stats
 
