@@ -1,10 +1,10 @@
 # <div align="center">Hello there! 👋</div>  
   
 
-### <div align="center">I'm Jenny, a computer science student 💛</div>  
+### <div align="center">I'm Jenny, a Computer Engineer 💛</div>  
   
 
-- 📚 I study at CUJAE university.  
+- 📚 I studied at CUJAE university.  
   
 
 - 🌱 I’m currently learning Web Development and Machine Learning with the CS50 program.  
