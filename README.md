@@ -8,6 +8,7 @@ I enjoy learning by building: from interactive browser games and desktop graph t
 
 - Java, Spring Boot and REST APIs
 - JavaScript, Node.js and Express
+- React and component-based interfaces
 - Python, PyQt5 and graph algorithms
 - PostgreSQL, JPA and Spring Security
 - HTML, CSS and responsive interfaces
@@ -33,17 +34,15 @@ Multiplayer browser game built with JavaScript, Canvas, Node.js and Express.
 
 [Play the live demo](https://platzi-mokepon.onrender.com/)
 
-### [Todo Manager](https://github.com/jennyanez/todo-manager)
-
-JavaScript task manager with local storage, themes and a deployed web interface.
-
-[Open the live demo](https://jennyanez.github.io/todo-manager/)
-
 ### [React Todo App](https://github.com/jennyanez/platzi-react-intro-todo)
 
 React task manager focused on component-based UI and state management.
 
 [Open the live demo](https://jennyanez.github.io/platzi-react-intro-todo/)
+
+### [PWeb Final](https://github.com/jennyanez/pweb-final)
+
+Web programming project built with Java, Spring and JavaServer Faces.
 
 ## Currently learning
 
